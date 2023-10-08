@@ -18,7 +18,7 @@ The fine-tuning process involves several steps:
 5. BERT tokenizer is utilized to preprocess the text data before fine-tuning.
 
 ## Usage
-[Provide instructions on how to use your code, train the model, and make predictions.]
+Pandas, Numpy, Pytorch, Transformer, BERT
 
 
 
