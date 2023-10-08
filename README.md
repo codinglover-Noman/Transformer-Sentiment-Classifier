@@ -20,6 +20,5 @@ The fine-tuning process involves several steps:
 ## Usage
 [Provide instructions on how to use your code, train the model, and make predictions.]
 
-## Result
-https://user-images.githubusercontent.com/47247696/147391497-cf842077-64d4-476f-bbca-580eaaa1b917.png
+
 
