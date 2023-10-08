@@ -20,21 +20,6 @@ The fine-tuning process involves several steps:
 ## Usage
 [Provide instructions on how to use your code, train the model, and make predictions.]
 
-## Installation
-[Include any installation instructions or requirements for using your project.]
-
-## License
-[Specify the license under which your project is distributed, if applicable.]
-
-## Acknowledgments
-[Give credit to any external libraries, tools, or resources you used or were inspired by.]
-
-## Contributing
-[Include guidelines for others who may want to contribute to your project.]
-
-## Issues
-[Provide a link to the GitHub Issues page for your project, where users can report problems or suggest enhancements.]
-
-## Contact
-[Include your contact information for questions or inquiries related to the project.]
+## Result
+https://user-images.githubusercontent.com/47247696/147391497-cf842077-64d4-476f-bbca-580eaaa1b917.png
 
